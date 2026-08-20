@@ -5,7 +5,7 @@ export default function Contact() {
         className="relative overflow-hidden bg-[#020617] px-6 py-24"
         >
         {/* Background glow */}
-        <div className="absolute left-1/2 top-1/2 h-[400px] w-[400px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-blue-600/5 blur-[120px]" />
+        <div className="absolute left-1/2 top-1/2 h-100 w-100 -translate-x-1/2 -translate-y-1/2 rounded-full bg-blue-600/5 blur-[120px]" />
 
         <div className="relative mx-auto max-w-5xl">
             {/* Section title */}

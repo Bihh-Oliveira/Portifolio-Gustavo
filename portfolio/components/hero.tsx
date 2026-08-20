@@ -3,7 +3,7 @@ export default function Hero() {
         <section className="relative flex min-h-screen items-center overflow-hidden bg-[#020617] px-6 pt-20">
         
         {/* Background glow */}
-        <div className="absolute left-1/2 top-1/2 -z-0 h-[500px] w-[500px] -translate-x-1/2 -translate-y-1/2 rounded-full bg-blue-600/10 blur-[120px]" />
+        <div className="absolute left-1/2 top-1/2 z-0 h-125 w-125 -translate-x-1/2 -translate-y-1/2 rounded-full bg-blue-600/10 blur-[120px]" />
 
         <div className="mx-auto grid w-full max-w-7xl items-center gap-16 lg:grid-cols-2">
             
